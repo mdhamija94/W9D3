@@ -7,19 +7,13 @@
   font-family: sans-serif;
 }
 
-/*  */
 body {
   background-color: lightgray;
 }
 
 ul li {
   list-style: none;
-
 }
-
-/* body {
-  flex:
-} */
 
 h1 {
   margin: 20px auto;
