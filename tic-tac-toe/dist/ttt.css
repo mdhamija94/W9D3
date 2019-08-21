@@ -9,7 +9,7 @@
 
 /*  */
 body {
-  background-color: honeydew;
+  background-color: lightgray;
 }
 
 ul li {
@@ -57,7 +57,7 @@ h1 {
 }
 
 .ttt li.x {
-  color: darkgreen;
+  color: maroon;
 }
 
 .ttt li.o {
